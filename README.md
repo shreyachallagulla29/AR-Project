@@ -3,6 +3,8 @@
 Project File:
 https://drive.google.com/drive/folders/1EQA8Yar_zomo_y_SDlDi-nTFumYW-Wq4
 
+The above link has all the packages,assets and files
+
 ## Augmented Reality Textbook Application
 ### Overview
 This Unity 3D project is an Augmented Reality (AR) application designed to enhance the learning experience by overlaying videos related to textbook pages. The project uses Vuforia Engine to create interactive AR experiences where each textbook page is associated with a specific video. Upon scanning a page in the textbook, the corresponding video content will appear in augmented reality.
